@@ -1,0 +1,1 @@
+find / -user "user" -type f -exec ls -la {} \; 2>/dev/null
